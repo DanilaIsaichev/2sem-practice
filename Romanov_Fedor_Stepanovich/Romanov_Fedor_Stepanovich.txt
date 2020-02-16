@@ -1,0 +1,33 @@
+<button type="button" class="card-header btn-block btn-link" id="isaichevdo2" data-toggle="collapse" data-target="#isaichevdo1" aria-expanded="false" aria-controls="isaichevdo1">
+	<h5>Исайчев Данила Олегович</h5>
+</button>
+
+<div id="isaichevdo1" class="collapse" aria-labelledby="isaichevdo2" data-parent="#accordion">
+	<div class="card-body">
+		<div class="row">
+			<div class="col-md-5">
+				<center><img src="https://live.staticflickr.com/65535/49542815486_aa6b87fd3a_b.jpg" style="width: 70%"></center>
+				<br>
+</div> <!--  div.col-md-5 -->
+
+
+<div class="col-md-7">
+	<h4>Романов Фёдор Степанович</h4>
+
+	<p>
+		Мой прадед, Романов Фёдор Степанович, с&nbsp;13&nbsp;сентября 1941 года служил инструктором санитарной роты в&nbsp;составе 872 стрелкового полка 282 стрелковой дивизии Первого Украинского фронта в&nbsp;звании старшего сержанта. 
+</p>
+	<p>
+		18.10.1942 был награждён медалью &laquo;За&nbsp;боевые заслуги&raquo; за&nbsp;то, что в&nbsp;ходе боевых действий полка в&nbsp;районе населённых пунктов Сомшино, Новая Деревня и&nbsp;Никольское Полавского района Ленинградской области вынес из&nbsp;под огня противника 20&nbsp;тяжелораненых бойцов и&nbsp;командиров с&nbsp;их&nbsp;оружием. 
+</p>
+	<p>
+		17.01.1944 был награждён медалью &laquo;За&nbsp;отвагу&raquo; за&nbsp;то, что 16&nbsp;декабря 1943 года в&nbsp;ходе боёв за&nbsp;высоту 180,4 вынес с&nbsp;поля боя 16&nbsp;раненых бойцов и&nbsp;командиров с&nbsp;их&nbsp;оружием.
+</p>
+	<p>
+		03.03.1945 был награждёт медалью &laquo;За&nbsp;отвагу&raquo; за&nbsp;то, что в&nbsp;ходе боёв за&nbsp;населённый пункт Поремба 26&nbsp;января 1945 года под сильным ружейно-пулемётным и&nbsp;артмин огнём неприятеля вынес с&nbsp;поля боя 11&nbsp;раненых бойцов с&nbsp;их&nbsp;оружием и&nbsp;2-х тяжелораненых офицеров.
+</p>
+</div> <!--  div.col-md-7 -->
+</div> <!-- div.row -->
+
+</div> <!-- div.card-body -->
+</div> <!-- div#isaichevdo1 -->
